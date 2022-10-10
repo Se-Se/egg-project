@@ -27,7 +27,7 @@ class Main extends Component {
     return <Layout {...this.props}>
       <Header></Header>
       <ul className="menu-tab">
-        <li onClick={this.tabClick.bind(this)}><Link to="/">Home1</Link></li>
+        <li onClick={this.tabClick.bind(this)}><Link to="/">Home111</Link></li>
         <li onClick={this.tabClick.bind(this)}><Link to="/async">Async</Link></li>
         <li onClick={this.tabClick.bind(this)}><Link to="/example">Example</Link></li>
         <li onClick={this.tabClick.bind(this)}><Link to="/about">About</Link></li>
