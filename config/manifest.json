@@ -1,0 +1,62 @@
+{
+  "chunk/0.js": "/public/js/chunk/0.js",
+  "antd.css": "/public/css/antd.css",
+  "antd.js": "/public/js/chunk/antd.js",
+  "blog.css": "/public/css/blog.css",
+  "blog.js": "/public/js/chunk/blog.js",
+  "common.css": "/public/css/common.css",
+  "common.js": "/public/js/chunk/common.js",
+  "demo/async.js": "/public/js/chunk/demo/async.js",
+  "demo/node.js": "/public/js/chunk/demo/node.js",
+  "runtime.js": "/public/js/runtime.js",
+  "img/react.png": "/public/img/react.png",
+  "deps": {
+    "blog.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/blog.js"
+      ],
+      "css": [
+        "/public/css/common.css",
+        "/public/css/blog.css"
+      ]
+    },
+    "antd.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/antd.js"
+      ],
+      "css": [
+        "/public/css/common.css",
+        "/public/css/antd.css"
+      ]
+    },
+    "demo/node.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/demo/node.js"
+      ],
+      "css": [
+        "/public/css/common.css"
+      ]
+    },
+    "demo/async.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/demo/async.js"
+      ],
+      "css": [
+        "/public/css/common.css"
+      ]
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "\\public",
+    "mapped": true
+  }
+}

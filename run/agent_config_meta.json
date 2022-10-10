@@ -1,0 +1,388 @@
+{
+  "siteFile": {
+    "/favicon.ico": "D:\\event\\TEST\\egg-react-project\\config\\config.default.ts",
+    "cacheControl": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "D:\\event\\TEST\\egg-react-project\\config\\config.default.ts",
+    "dir": "D:\\event\\TEST\\egg-react-project\\config\\config.default.ts",
+    "encoding": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "enablePerformanceTimer": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\event\\TEST\\egg-react-project\\config\\config.default.ts",
+    "dir": "D:\\event\\TEST\\egg-react-project\\config\\config.default.ts",
+    "maxAge": "D:\\event\\TEST\\egg-react-project\\config\\config.local.ts",
+    "dynamic": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "keys": "D:\\event\\TEST\\egg-react-project\\config\\config.default.ts",
+  "middleware": "D:\\event\\TEST\\egg-react-project\\config\\config.default.ts",
+  "reactssr": {
+    "layout": "D:\\event\\TEST\\egg-react-project\\config\\config.default.ts",
+    "doctype": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "manifest": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectHeadRegex": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectBodyRegex": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectCss": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectJs": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "crossorigin": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "injectRes": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "mergeLocals": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "fallbackToClient": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+    "afterRender": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js"
+  },
+  "view": {
+    "cache": "D:\\event\\TEST\\egg-react-project\\config\\config.local.ts",
+    "root": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultExtension": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": {
+      ".js": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js",
+      ".jsx": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-view-react-ssr\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\event\\TEST\\egg-react-project\\config\\config.local.ts",
+    "ignoreDirs": "D:\\event\\TEST\\egg-react-project\\config\\config.local.ts",
+    "fastReady": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logview": {
+    "dir": "D:\\event\\TEST\\egg-react-project\\config\\config.local.ts"
+  },
+  "session": {
+    "maxAge": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "supportedRequests": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "cors": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-cors\\config\\config.default.js",
+  "webpack": {
+    "port": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-webpack\\config\\config.default.js",
+    "proxy": {
+      "host": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-webpack\\config\\config.default.js",
+      "match": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-webpack\\config\\config.default.js"
+    },
+    "webpackConfigList": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-webpack\\config\\config.default.js"
+  },
+  "webpackreact": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg-webpack-react\\config\\config.default.js",
+  "env": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "debug": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "build": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "start": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "backend": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "tsc": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "clean": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "kill": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "lint": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "fix": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "ii": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "changelog": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "husky": {
+      "hooks": {
+        "pre-commit": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+      }
+    },
+    "lint-staged": {
+      "app/**/*.ts,tsx": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "@hubcarl/json-typescript-mapper": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "axios": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "cross-env": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-logger": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-react-ssr": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "husky": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "lint-staged": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "lodash-id": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "lowdb": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "mobx": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "mobx-react": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "moment": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "react": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "react-dom": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "react-loadable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "react-redux": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "react-router": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "react-router-config": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "react-router-dom": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "react-router-redux": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "redux": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "shortid": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "showdown": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "@easy-team/easywebpack-cli": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "@easy-team/easywebpack-react": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "@types/react": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "@types/react-dom": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "antd": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-ts-helper": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "egg-webpack-react": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-react": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "husky": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "ip": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "less": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "less-loader": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "lint-staged": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "ts-loader": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "tslint": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "tslint-loader": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "typescript": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "egg": {
+      "typescript": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "url": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "homepage": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "webpack": {
+      "loaders": {
+        "less": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+      }
+    }
+  },
+  "baseDir": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\event\\TEST\\egg-react-project\\node_modules\\egg\\config\\config.default.js"
+}

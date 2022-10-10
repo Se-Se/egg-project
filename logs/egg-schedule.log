@@ -1,0 +1,39 @@
+2022-10-10 16:16:25,736 INFO 25712 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:16:25,736 INFO 25712 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:16:25,737 INFO 25712 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:16:28,300 INFO 17524 [Timer] D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 44011703ms at 2022-10-11 04:30:00.003
+2022-10-10 16:16:28,300 INFO 17524 [Timer] D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 27811700ms at 2022-10-11 00:00:00.000
+2022-10-10 16:16:28,301 INFO 17524 [Timer] D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27812700ms at 2022-10-11 00:00:01.001
+2022-10-10 16:17:16,210 INFO 28256 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:17:16,210 INFO 28256 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:17:16,210 INFO 28256 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:17:36,818 INFO 12260 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:17:36,818 INFO 12260 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:17:36,818 INFO 12260 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:17:54,151 INFO 21292 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:17:54,151 INFO 21292 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:17:54,151 INFO 21292 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:19:48,636 INFO 25368 [Timer] D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 43811366ms at 2022-10-11 04:30:00.002
+2022-10-10 16:19:48,636 INFO 25368 [Timer] D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 27611364ms at 2022-10-11 00:00:00.000
+2022-10-10 16:19:48,637 INFO 25368 [Timer] D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 27612364ms at 2022-10-11 00:00:01.001
+2022-10-10 16:19:48,473 INFO 11176 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:19:48,473 INFO 11176 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:19:48,473 INFO 11176 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:20:08,096 INFO 4816 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:20:08,096 INFO 4816 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:20:08,097 INFO 4816 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:20:20,700 INFO 28272 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:20:20,700 INFO 28272 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:20:20,700 INFO 28272 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:24:18,582 INFO 28664 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:24:18,582 INFO 28664 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:24:18,582 INFO 28664 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:24:22,531 INFO 26704 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:24:22,531 INFO 26704 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:24:22,531 INFO 26704 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:25:06,513 INFO 9884 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:25:06,513 INFO 9884 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:25:06,513 INFO 9884 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-10-10 16:25:12,564 INFO 28420 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-10-10 16:25:12,564 INFO 28420 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-10-10 16:25:12,564 INFO 28420 [egg-schedule]: register schedule D:\event\TEST\egg-react-project\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
